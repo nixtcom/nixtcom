@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+with+passion+%E2%9C%A8;From+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Always+learning+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+with+passion+%E2%9C%A8;From+Uruguay+%F0%9F%87%A6%F0%9F%87%B7;Always+learning+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,10 +33,6 @@ const stack = {
 </div>
 
 ---
-
-![505](https://i.ibb.co/1Gp4Twpm/54018835313531c23dd01080002d39fc.jpg))
-
-
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Advanced+Discord+Bots+Developer;2%2B+years+of+experience+in+the+area;Contact+me+in+discord+for+more+info" alt="Typing SVG" /></a>
