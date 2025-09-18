@@ -1,7 +1,5 @@
 <div align="center">
-
-![Wave](https://capsule-render.vercel.app/api?type=wave&height=300&text=Nixtcom&animation=blink)
-
+  
 </div>
 
 <div align="center">
@@ -27,8 +25,6 @@ const stack = {
 </div>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 </div>
 
