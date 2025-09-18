@@ -30,10 +30,6 @@ const stack = {
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Advanced+Discord+Bots+Developer;2%2B+years+of+experience+in+the+area;Contact+me+in+discord+for+more+info" alt="Typing SVG" /></a>
-</p>
-
 <h3 align="center">Hola, soy <a href="https://github.com/nixtcom">nixtcom</a></h3>
 <h5 align="center">Aquí puedes ver cosas sobre mi desarrollo</h5>
 
