@@ -9,7 +9,7 @@
  </p>
  
 ## Herramientas
-<p align="left"> <a href="https://github.com/nixtcom"><img src="https://skillicons.dev/icons?i=vscode,idea,python,discord,nodejs,discordjs"> </a> </p>
+<p align="left"> <a href="https://github.com/nixtcom"><img src="https://skillicons.dev/icons?i=vscode,python,discord,nodejs,discordjs"> </a> </p>
 
 
 
